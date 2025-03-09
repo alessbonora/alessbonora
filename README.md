@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Alessandro and I own a bachelor's degree in Communication Sciences. I'm currently studying Computer Sciences because I found myself loving programming. Here are some of my interests related to this filed:
+I'm Alessandro and I own a bachelor's degree in Communication Sciences. I'm currently studying Computer Sciences because I found myself loving programming. Here are some of my interests related to this field:
 
 - Frontend development
 - JamStack deployment
