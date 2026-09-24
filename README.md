@@ -1,14 +1,14 @@
 ## Hi there 👋
 
-I'm Alessandro and I own a bachelor's degree in Communication Sciences. I'm currently studying Computer Sciences because I found myself loving programming. Here are some of my interests related to this field:
+I'm Alessandro. I'm a tech fan since I was a kid and I own a bachelor's degree in Communication Sciences. I'm currently studying Computer Sciences because I found myself loving programming. Some of my fields of interest are: 
 
-- Frontend development
-- JamStack deployment
-- WordPress development
+- Software engeneering
+- Optimization
+- Parallel computing
 - Open source software
 - Linux systems
-- Self-hosting
-- Artificial intelligence
+- Wordpress development
+- Artificial intelligence.
 
 If you want to reach out I leave here my [LinkedIn profile](https://www.linkedin.com/in/alessandro-bonora-085516136/). Have a nice day ☺️
 
