@@ -2,7 +2,7 @@
 
 I'm Alessandro. I'm a tech fan since I was a kid and I own a bachelor's degree in Communication Sciences. I'm currently studying Computer Sciences because I found myself loving programming. Some of my fields of interest are: 
 
-- Software engeneering
+- Software engineering
 - Optimization
 - Parallel computing
 - Open source software
